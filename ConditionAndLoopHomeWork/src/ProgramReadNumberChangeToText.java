@@ -6,8 +6,13 @@ public class ProgramReadNumberChangeToText {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Input the number you want to read?");
         number = scanner.nextInt();
+        if (number < 0 || number > 999) {
+            System.out.println("Out of ability");
+            return;
+        }
+        String result = "";
 
-        if (number <= 15) {
+        if (number <= 10) {
             switch (number) {
                 case 0:
                     System.out.println("zero");
@@ -42,25 +47,28 @@ public class ProgramReadNumberChangeToText {
                 case 10:
                     System.out.println("ten");
                     break;
-                case 11:
-                    System.out.println("eleven");
-                    break;
-                case 12:
-                    System.out.println("twelve");
-                    break;
-                case 13:
-                    System.out.println("thirteen");
-                    break;
-                case 14:
-                    System.out.println("fourteen");
-                    break;
-                case 15:
-                    System.out.println("fifteen");
-                    break;
+//                case 11:
+//                    System.out.println("eleven");
+//                    break;
+//                case 12:
+//                    System.out.println("twelve");
+//                    break;
+//                case 13:
+//                    System.out.println("thirteen");
+//                    break;
+//                case 14:
+//                    System.out.println("fourteen");
+//                    break;
+//                case 15:
+//                    System.out.println("fifteen");
+//                    break;
             }
+        } else if (number < 20) {
+            switch (number - 10){
+                case 6,7,8,9:
+            }
+
         }
-
-
 
 
     }
