@@ -1,3 +1,5 @@
+package ConditionAndLoop;
+
 public class ShowPrimeLowerThan100 {
     public static void main(String[] args) {
         int number = 2;

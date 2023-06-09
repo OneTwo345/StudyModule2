@@ -1,3 +1,5 @@
+package ConditionAndLoop;
+
 public class checkPrimeFunction {
     public static void main(String[] args) {
         System.out.println(isPrime(6));

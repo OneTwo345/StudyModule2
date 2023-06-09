@@ -1,3 +1,5 @@
+package ConditionAndLoop;
+
 import java.util.Scanner;
 
 public class MenuLoop {
@@ -47,15 +49,19 @@ public class MenuLoop {
                 System.out.println("Input your star");
                 int star1 = input.nextInt();
 
-                for (int l = 0; l < number1; l++) {
+                for (int l = number1; l >= 0; l--) {
 
                     for (int m = star1; m > 0; m--) {
                         if (m <= l) {
-                            System.out.print(" * ");
+                            System.out.print("*");
                         }
                     }
                     System.out.println(" ");
                 }
+            case 0:
+                System.exit(0);
+            default:
+                System.out.println("No choice!");
         }
     }
 

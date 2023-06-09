@@ -1,3 +1,5 @@
+package ConditionAndLoop;
+
 import java.util.Scanner;
 
 public class ShowHello {

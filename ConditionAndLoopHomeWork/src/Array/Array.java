@@ -1,3 +1,5 @@
+package Array;
+
 public class Array {
     public static void main(String[] args) {
         int[] myArray = {1, 3, 5, 6, 7, 8};
