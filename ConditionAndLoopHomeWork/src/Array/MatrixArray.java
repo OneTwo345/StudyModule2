@@ -1,5 +1,6 @@
 package Array;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class MatrixArray {
@@ -12,7 +13,14 @@ public class MatrixArray {
         System.out.println("Input size 2");
         size2 = scanner.nextInt();
         int[][] myArray = new int[size1][size2];
+        for (int l = 0; l < size1; l++){
+            for (int k = 0; k < size2; k++){
+                System.out.println("Input element [" + l + "][" + k + "]:");
+                myArray[l][k]=scanner.nextInt();
+            }
 
+        }
+        System.out.println(Arrays.deepToString(myArray));
         int max = 0;
        int row = 0;
         int col = 0;
