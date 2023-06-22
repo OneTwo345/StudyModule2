@@ -27,7 +27,7 @@ public class Practice {
 //
 //    }
 public static void main(String[] args) {
-    String text = "This is a sample text with several words. We will count the occurrences of each word in this text.";
+    String text = "This is a sample text with several words.";
 
     // Tạo một HashMap để lưu trữ các từ và số lần xuất hiện của chúng
     Map<String, Integer> wordCount = new TreeMap<>();
