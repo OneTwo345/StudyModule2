@@ -11,7 +11,7 @@ public class TransNumber {
             number /=2;
         }
         while (!result.empty()){
-            System.out.print(result.pop() + "");
+            System.out.print(result.pop() + " ");
         }
 
 
