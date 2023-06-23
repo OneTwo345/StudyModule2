@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="99f18e3e-cda8-4f5b-85ba-d0db7b13703b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../BasicList/src/LinkedList/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BasicList/src/LinkedList/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BasicList/src/SimpleList/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BasicList/src/SimpleList/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BasicList/src/SimpleList/MyListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BasicList/src/SimpleList/MyListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/AbstractAndInterface/src/AnimalAndEdible/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/AbstractAndInterface/src/AnimalAndEdible/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/ArrayList_phuongthuc/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/ArrayList_phuongthuc/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/Interface_Comparator_sap_xep/CircleComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/Interface_Comparator_sap_xep/CircleComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/Interface_Comparator_sap_xep/CircleComparatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/Interface_Comparator_sap_xep/CircleComparatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/Interface_resizeable/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/Interface_resizeable/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/Interface_resizeable/CircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/Interface_resizeable/CircleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/Interface_resizeable/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/Interface_resizeable/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/Interface_resizeable/RectangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/Interface_resizeable/RectangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/LinkedList_Practice/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/LinkedList_Practice/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/LinkedList_Practice/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/LinkedList_Practice/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/LinkedList_Practice/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/LinkedList_Practice/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/ke_thua_lopCircle_lopCylinder/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/ke_thua_lopCircle_lopCylinder/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/ke_thua_lopCircle_lopCylinder/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/ke_thua_lopCircle_lopCylinder/Cylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/ke_thua_lopCircle_lopCylinder/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/ke_thua_lopCircle_lopCylinder/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/ke_thua_lopPoint2D_lopPoint3D/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/ke_thua_lopPoint2D_lopPoint3D/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/ke_thua_lopPoint2D_lopPoint3D/Point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/ke_thua_lopPoint2D_lopPoint3D/Point2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/ke_thua_lopPoint2D_lopPoint3D/Point3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/ke_thua_lopPoint2D_lopPoint3D/Point3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/kethua_Point_Moveable/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/kethua_Point_Moveable/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/kethua_Point_Moveable/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/kethua_Point_Moveable/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/kethua_tamgiac/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/kethua_tamgiac/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/kethua_tamgiac/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/kethua_tamgiac/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/tinh_da_hinh_thuc_hanh_hinh_hoc/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/tinh_da_hinh_thuc_hanh_hinh_hoc/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/tinh_da_hinh_thuc_hanh_hinh_hoc/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/tinh_da_hinh_thuc_hanh_hinh_hoc/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/tinh_da_hinh_thuc_hanh_hinh_hoc/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/tinh_da_hinh_thuc_hanh_hinh_hoc/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/tinh_da_hinh_thuc_hanh_hinh_hoc/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/tinh_da_hinh_thuc_hanh_hinh_hoc/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/tinh_da_hinh_thuc_hanh_hinh_hoc/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ConditionAndLoopHomeWork/src/tinh_da_hinh_thuc_hanh_hinh_hoc/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../James_10/src/trien_khai_phuong_thuc_ArrayList/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../James_10/src/trien_khai_phuong_thuc_ArrayList/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../James_11/src/chuyen_doi_thap_phan_sang_nhi_phan/ConvertFromBinaryToDecimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../James_11/src/chuyen_doi_thap_phan_sang_nhi_phan/ConvertFromBinaryToDecimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../James_11/src/chuyen_doi_thap_phan_sang_nhi_phan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../James_11/src/chuyen_doi_thap_phan_sang_nhi_phan/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TreeNote.java" beforeDir="false" afterPath="$PROJECT_DIR$/TreeNote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chuong_trinh_quan_ly_san_pham/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chuong_trinh_quan_ly_san_pham/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chuong_trinh_quan_ly_san_pham/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chuong_trinh_quan_ly_san_pham/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chuong_trinh_quan_ly_san_pham/ProductManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chuong_trinh_quan_ly_san_pham/ProductManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phan_biet_hashmap_va_hashset/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../phan_biet_hashmap_va_hashset/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phan_biet_hashmap_va_hashset/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../phan_biet_hashmap_va_hashset/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sap_xep_voi_comparable_va_comparator/AgeComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sap_xep_voi_comparable_va_comparator/AgeComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sap_xep_voi_comparable_va_comparator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sap_xep_voi_comparable_va_comparator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sap_xep_voi_comparable_va_comparator/Student1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sap_xep_voi_comparable_va_comparator/Student1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinh_vien_theo_do_tuoi/TestMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sinh_vien_theo_do_tuoi/TestMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java63/src/Test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java63/src/Test/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_68/src/main/ViDuFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_68/src/main/ViDuFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java_69/src/file/XoaFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java_69/src/file/XoaFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/StudyModule2/CheckLeapYear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/StudyModule2/ClassWork.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/StudyModule2/CountBMIOfBody.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/StudyModule2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/StudyModule2/OperatorExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/StudyModule2/SolvingFirstDegreeEquations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/StudyModule2/SystemTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/StudyModule2/Variable.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2RaevTIhLeZ21Lms8VRNC2sVpFi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Java/StudyModule2/James_12_TH_StudentBaseAge/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99f18e3e-cda8-4f5b-85ba-d0db7b13703b" name="Changes" comment="" />
+      <created>1687492849403</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687492849403</updated>
+      <workItem from="1687492850346" duration="828000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
