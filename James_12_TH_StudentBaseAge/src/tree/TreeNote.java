@@ -1,4 +1,4 @@
-package cay_tim_kiem_nhi_phan;
+package tree;
 
 public class TreeNote<E> {
     protected E element;
@@ -8,4 +8,6 @@ public class TreeNote<E> {
     public TreeNote(E e) {
         element = e;
     }
+
+
 }
