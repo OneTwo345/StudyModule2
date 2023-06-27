@@ -4,25 +4,16 @@ import java.util.Arrays;
 
 public class Test {
     public static void main(String[] args) {
-        int[] numbers = {1,5,7,6,9,7,10};
-        int num = 9;
-        int[] number1;
-        number1 = Arrays.stream(numbers).sorted().toArray();
-        System.out.println(Arrays.toString(number1));
-        int low = 0;
-        int mid;
-        int hight = number1.length -1;
-        while (hight>= low){
-            mid  = (low + hight)/2;
-            if( number1[mid] == num){
-                System.out.println("Tim thay "+ num);
+        int[] numbers = {1,5,6,8,9,11,12,17,18,21,25};
 
-            }else if (
-                    number1[mid]>num
-            ){
 
-            }
+        System.out.println(FuntionSearch.binarySearch(numbers,0,11,6));
+        System.out.println(Practice.findNumbers(numbers,6,0,11));
+        System.out.println(Practice2.searchBinary(numbers,0,11,6));
 
-        }
+
+
+
+
     }
 }

@@ -8,30 +8,24 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Input the text");
         String s = scanner.nextLine();
+        int size = s.length();
         LinkedList<Character> max = new LinkedList<>();
-
-        for (int i = 0; i < s.length(); i++) {
-
-            LinkedList<Character> lists = new LinkedList<>();
-            lists.add(s.charAt(i));
-            for (int j = i+1; j < s.length(); j++){
-                if(s.charAt(j)>lists.getLast()){
-                    lists.add(s.charAt(j));
-
+        for(int i = 0; i < size; i++ ){
+            LinkedList<Character> text = new LinkedList<>();
+            text.add(s.charAt(i));
+            for (int j = i+1 ; j < size;j++){
+                if(s.charAt(j)>text.getLast()){
+                    text.add(s.charAt(j));
                 }
             }
-            if (lists.size() > max.size()) {
-                //Nếu kích cỡ của list trung gian lớn hơn kích cỡ của list có độ dài lớn nhất thì gán lại max
+            if (max.size() < text.size()){
                 max.clear();
-                max.addAll(lists);
+                max.addAll(text);
             }
-            lists.clear();
         }
-        // Hiển thị chuỗi tăng dần dài nhất
-        for (Character ch: max) { // 1 vòng lặp
-            System.out.print(ch); // 1 câu lệnh
-        }
-        System.out.println();
+        System.out.println("Chuoi dai nhat la: " + max);
+
+
 
     }
 }
